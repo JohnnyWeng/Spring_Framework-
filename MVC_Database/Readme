@@ -1,5 +1,1 @@
-Review: CS -> CS_ALL_Project_notes -> Java_企業 -> UserSystem
-Review: CS -> CS_ALL_Project_notes -> Java_企業 -> 設計原則
-	
-	記得如果一開始 "沒有" users.json 這個資料庫檔案, 那麼要先去 UserDB.java 這個檔案去 run, 
-	才能開始去 UserSystem.java 運作。
+
